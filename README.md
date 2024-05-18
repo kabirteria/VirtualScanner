@@ -1,5 +1,4 @@
 # VirtualScanner- Made in India
-# Virtual Scanner - Your Personal PDF Scanning Solution
 
 Welcome to **Virtual Scanner**, an advanced PDF scanning Android application designed to make your document management easier and more secure. With its intuitive interface and powerful features, Virtual Scanner turns your smartphone into a portable scanner. Perfect for students, professionals, and anyone needing to scan, store, and secure their documents on the go.
 
